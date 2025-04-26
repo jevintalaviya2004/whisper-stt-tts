@@ -2,7 +2,7 @@
 import openai
 import speech_recognition as sr
 
-openai.api_key = "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"  # 🔐 Replace with your API key
+openai.api_key = ""  # Replace with your API key
 
 # Function to record audio until silence
 def record_until_silence():
